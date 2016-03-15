@@ -6,7 +6,7 @@
  * Time: 09:48
  * Version: 1.0;
  *
- * Use this class only if u are too lazy to rebuild your PHP / Mysql script
+ * Use this file only if u are too lazy to rebuild your PHP / Mysql script
  * People, stop using mysql_ please and go to mysqli_ or PDO
  */
 
