@@ -4,7 +4,8 @@
  * User: PHPDuck.nl
  * Date: 15-03-16
  * Time: 09:48
- * Version: 0.9;
+ * Version: 1.0;
+ *
  * Use this class only if u are too lazy to rebuild your PHP / Mysql script
  * People, stop using mysql_ please and go to mysqli_ or PDO
  */
