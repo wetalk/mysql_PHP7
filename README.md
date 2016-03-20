@@ -8,7 +8,7 @@ By: KrielkipNL
 
 ## How to use:
 Before using any mysql_ code. Include the mysql_.php file like:
-```include ('mysql_.php');```
+```require 'mysql_.php';```
 And the errors disappear. 
 
 ## Information:
